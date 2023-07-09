@@ -15,3 +15,5 @@ Script for an auto-created reverse SSH tunnel for remote management of devices b
 * Install the provided script on the remote device.
 * Add the cron job entry on the remote device.
 * Latest after a minute you can access the remote device on the SSH server via the locally exposed port configured in the script.
+
+Script is based on this guide: https://www.tunnelsup.com/raspberry-pi-phoning-home-using-a-reverse-remote-ssh-tunnel/
