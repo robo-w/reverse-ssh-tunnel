@@ -1,0 +1,3 @@
+# Change to correct local user, and location of script.
+
+*/1 * * * * su pi -c '/home/pi/create_ssh_tunnel.sh > /home/pi/ssh_tunnel.log 2>&1'
